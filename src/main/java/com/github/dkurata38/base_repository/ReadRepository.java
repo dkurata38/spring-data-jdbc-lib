@@ -1,4 +1,4 @@
-package com.github.dkurata38.explicit_decide_update;
+package com.github.dkurata38.base_repository;
 
 import java.util.Optional;
 import org.springframework.data.repository.NoRepositoryBean;
