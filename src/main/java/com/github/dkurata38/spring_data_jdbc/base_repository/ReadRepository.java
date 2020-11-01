@@ -1,4 +1,4 @@
-package com.github.dkurata38.base_repository;
+package com.github.dkurata38.spring_data_jdbc.base_repository;
 
 import java.util.Optional;
 import org.springframework.data.repository.NoRepositoryBean;
